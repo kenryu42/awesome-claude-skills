@@ -24,6 +24,7 @@
 - [Getting Started](#getting-started)
 - [Skill Library](#skill-library)
   - [Official Skills](#official-skills)
+  - [Official Third-Party Skills](#official-third-party-skills)
   - [Community Skills](#community-skills)
 - [Ecosystem & Resources](#ecosystem--resources)
   - [Official Documentations](#official-documentations)
@@ -67,6 +68,12 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              | Automate UI testing and regression checks for web applications.                                   |
 | **[brand-guidelines](https://github.com/anthropics/skills/tree/main/brand-guidelines)**   | Apply Anthropic's official brand colors and typography to artifacts.                                         | Ensure all generated content adheres to brand standards.                                          |
 | **[internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms)**       | Write internal communications like status reports, newsletters, and FAQs.                                    | Standardize and streamline internal messaging.                                                    |
+
+### Official Third-Party Skills
+
+| Skill                                                                               | Description                                                                                       |
+| :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| [Notion Skills for Claude](https://notiondevs.notion.site/notion-skills-for-claude) | Notion Skills for Claude are step-by-step guides that teach Claude how to do real work in Notion. |
 
 ### Community Skills
 
