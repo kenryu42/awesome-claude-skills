@@ -47,7 +47,7 @@ Skills are available for all paid subscription plan.
 
 ### API & SDKs
 
-Skills can be accessed programmatically via the `/v1/skills` endpoint and leveraged in custom agents built with the Claude Agent SDK.
+Skills can be accessed programmatically via the [`/v1/skills`](https://docs.claude.com/en/api/skills) endpoint and leveraged in custom agents built with the Claude Agent SDK.
 
 ## Skill Library
 
