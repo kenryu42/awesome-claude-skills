@@ -81,11 +81,13 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 > If you use a Skill from an untrusted or unknown source, exercise extreme caution and thoroughly audit it before use.
 > Check [security considerations](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview#security-considerations).
 
-| Skill                                                                               | Description                                                                                                 |
-| :---------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| [obra/superpowers](https://github.com/obra/superpowers)                             | Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools. |
-| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)     | Single powerful tool to convert any documentation website into a Claude skill.                              |
-| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | An iOS simulator skill for Claude Code.                                                                     |
+| Skill                                                                                                                 | Description                                                                                                 |
+| :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| [obra/superpowers](https://github.com/obra/superpowers)                                                               | Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools. |
+| [obra/superpowers-skills](https://github.com/obra/superpowers-skills)                                                 | Community-editable skills for Claude Code's superpowers plugin.                                             |
+| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)                                       | Single powerful tool to convert any documentation website into a Claude skill.                              |
+| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)                                   | An iOS simulator skill for Claude Code.                                                                     |
+| [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | A Claude Skill that automatically analyzes uploaded CSV files.                                              |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
