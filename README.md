@@ -26,7 +26,7 @@
   - [Official Skills](#official-skills)
   - [Official Third-Party Skills](#official-third-party-skills)
   - [Community Skills](#community-skills)
-- [Ecosystem & Resources](#ecosystem--resources)
+- [Resources](#resources)
   - [Official Documentations](#official-documentations)
   - [Blog Posts](#blog-posts)
 - [Contributing](#contributing)
@@ -88,7 +88,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
-## Ecosystem & Resources
+## Resources
 
 ### Official Documentations
 
