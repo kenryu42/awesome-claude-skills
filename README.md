@@ -77,7 +77,9 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 
 ### Community Skills
 
-> ⚠️ **Warning:** If you use a Skill from an untrusted or unknown source, exercise extreme caution and thoroughly audit it before use. Check [security considerations](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview#security-considerations).
+> [!WARNING]
+> If you use a Skill from an untrusted or unknown source, exercise extreme caution and thoroughly audit it before use.
+> Check [security considerations](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview#security-considerations).
 
 | Skill                                                   | Description                                                                                                 |
 | :------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------- |
