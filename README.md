@@ -64,7 +64,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | **[canvas-design](https://github.com/anthropics/skills/tree/main/canvas-design)**         | Design visual art in .png and .pdf formats using established design philosophies.                            |
 | **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack's size constraints.                                                 |
 | **[artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder)** | Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.                             |
-| **[mcp-server](https://github.com/anthropics/skills/tree/main/mcp-server)**               | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
+| **[mcp-builder](https://github.com/anthropics/skills/tree/main/mcp-builder)**             | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
 | **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
 | **[brand-guidelines](https://github.com/anthropics/skills/tree/main/brand-guidelines)**   | Apply Anthropic's official brand colors and typography to artifacts.                                         |
 | **[internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms)**       | Write internal communications like status reports, newsletters, and FAQs.                                    |
