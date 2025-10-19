@@ -56,18 +56,20 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 
 | Skill                                                                                     | Description                                                                                                  |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **[algorithmic-art](https://github.com/anthropics/skills/tree/main/algorithmic-art)**     | Create generative art using p5.js with seeded randomness, flow fields, and particle systems.                 |
+| **[artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder)** | Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.                             |
+| **[brand-guidelines](https://github.com/anthropics/skills/tree/main/brand-guidelines)**   | Apply Anthropic's official brand colors and typography to artifacts.                                         |
+| **[canvas-design](https://github.com/anthropics/skills/tree/main/canvas-design)**         | Design visual art in .png and .pdf formats using established design philosophies.                            |
 | **[docx](https://github.com/anthropics/skills/tree/main/document-skills/docx)**           | Create, edit, and analyze Word documents with support for tracked changes, comments, and formatting.         |
 | **[pdf](https://github.com/anthropics/skills/tree/main/document-skills/pdf)**             | Extract text/tables, create new PDFs, merge/split documents, and handle forms.                               |
 | **[pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx)**           | Create, edit, and analyze PowerPoint presentations with support for templates, charts, and slide generation. |
 | **[xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx)**           | Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, and data analysis.       |
-| **[algorithmic-art](https://github.com/anthropics/skills/tree/main/algorithmic-art)**     | Create generative art using p5.js with seeded randomness, flow fields, and particle systems.                 |
-| **[canvas-design](https://github.com/anthropics/skills/tree/main/canvas-design)**         | Design visual art in .png and .pdf formats using established design philosophies.                            |
-| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack's size constraints.                                                 |
-| **[artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder)** | Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.                             |
-| **[mcp-builder](https://github.com/anthropics/skills/tree/main/mcp-builder)**             | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
-| **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
-| **[brand-guidelines](https://github.com/anthropics/skills/tree/main/brand-guidelines)**   | Apply Anthropic's official brand colors and typography to artifacts.                                         |
 | **[internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms)**       | Write internal communications like status reports, newsletters, and FAQs.                                    |
+| **[mcp-builder](https://github.com/anthropics/skills/tree/main/mcp-builder)**             | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
+| **[skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator)**         | Guide for creating effective skills.                                                                         |
+| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack's size constraints.                                                 |
+| **[theme-factory](https://github.com/anthropics/skills/tree/main/theme-factory)**         | Toolkit for styling artifacts with a theme.                                                                  |
+| **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
 
 ### Official Third-Party Skills
 
