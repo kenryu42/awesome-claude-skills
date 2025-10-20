@@ -116,9 +116,10 @@ _More community skills are on the way. Add yours by submitting a pull request._
 ### Blog Posts
 
 - [Jesse Vincent: Superpowers](https://blog.fsck.com/2025/10/09/superpowers/) - How I'm using coding agents in October 2025.
-- [Jesse Vincent: Superpowers 2.0](https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/) - Superpowers 2.0 came out yesterday and might already be obsolete..
+- [Jesse Vincent: Superpowers 2.0](https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/) - Superpowers 2.0 came out yesterday and might already be obsolete.
 - [Jesse Vincent: Skills for Claude](https://blog.fsck.com/2025/10/16/skills-for-claude/) - Anthropic is releasing their first-party skills system .
 - [Simon Willison: Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/) - Claude Skills are awesome, maybe a bigger deal than MCP.
+- [Kaz Sato: Google Cloud - Community](https://medium.com/google-cloud/supercharge-adk-development-with-claude-code-skills-d192481cbe72) - Supercharge ADK Development with Claude Code Skills.
 
 ## Contributing
 
