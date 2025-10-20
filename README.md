@@ -24,10 +24,11 @@
 - [Getting Started](#getting-started)
 - [Skill Library](#skill-library)
   - [Official Skills](#official-skills)
-  - [Official Third-Party Skills](#official-third-party-skills)
+  - [Third-Party Skills](#third-party-skills)
   - [Community Skills](#community-skills)
 - [Resources](#resources)
   - [Official Documentations](#official-documentations)
+  - [Third-Party Documentations](#third-party-documentations)
   - [Blog Posts](#blog-posts)
 - [Contributing](#contributing)
 
@@ -71,7 +72,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | **[theme-factory](https://github.com/anthropics/skills/tree/main/theme-factory)**         | Toolkit for styling artifacts with a theme.                                                                  |
 | **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
 
-### Official Third-Party Skills
+### Third-Party Skills
 
 | Skill                                                                               | Description                                                                                       |
 | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
@@ -107,7 +108,7 @@ _More community skills are on the way. Add yours by submitting a pull request._
 - [Claude Skills Cookbook](https://github.com/anthropics/claude-cookbooks/tree/main/skills) - A comprehensive guide to using Claude's Skills feature by Anthropic.
 - [Skill Authoring Best Practice](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices) - Learn how to write effective Skills that Claude can discover and use successfully.
 
-### Third-Party API Documentations
+### Third-Party Documentations
 
 - [AI SDK by Vercel](https://ai-sdk.dev/providers/ai-sdk-providers/anthropic#agent-skills) - Use Claude Skills with the AI SDK.
 
