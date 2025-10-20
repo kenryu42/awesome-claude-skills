@@ -67,7 +67,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | **[internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms)**       | Write internal communications like status reports, newsletters, and FAQs.                                    |
 | **[mcp-builder](https://github.com/anthropics/skills/tree/main/mcp-builder)**             | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
 | **[skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator)**         | Guide for creating effective skills.                                                                         |
-| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack's size constraints.                                                 |
+| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack' size constraints.                                                  |
 | **[theme-factory](https://github.com/anthropics/skills/tree/main/theme-factory)**         | Toolkit for styling artifacts with a theme.                                                                  |
 | **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
 
@@ -83,14 +83,15 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 > If you use a Skill from an untrusted or unknown source, exercise extreme caution and thoroughly audit it before use.
 > Check [security considerations](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview#security-considerations).
 
-| Skill                                                                                                                 | Description                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| [obra/superpowers](https://github.com/obra/superpowers)                                                               | Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.                         |
-| [obra/superpowers-skills](https://github.com/obra/superpowers-skills)                                                 | Community-editable skills for Claude Code's superpowers plugin.                                                                     |
-| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)                                       | Single powerful tool to convert any documentation website into a Claude skill.                                                      |
-| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)                                   | An iOS simulator skill for Claude Code.                                                                                             |
-| [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | A Claude Skill that automatically analyzes uploaded CSV files.                                                                      |
-| [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill)                                               | A Claude Skill that integrates the powerful web fuzzer ffuf (Fuzz Faster U Fool) for web security testing and reconnaissance tasks. |
+| Skill                                                                                                                 | Description                                                                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| [obra/superpowers](https://github.com/obra/superpowers)                                                               | Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.                           |
+| [obra/superpowers-skills](https://github.com/obra/superpowers-skills)                                                 | Community-editable skills for Claude Code's superpowers plugin.                                                                       |
+| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)                                       | Single powerful tool to convert any documentation website into a Claude skill.                                                        |
+| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)                                   | An iOS simulator skill for Claude Code.                                                                                               |
+| [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | A Claude Skill that automatically analyzes uploaded CSV files.                                                                        |
+| [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill)                                               | A Claude Skill that integrates the powerful web fuzzer ffuf (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.   |
+| [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)                                   | A skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
