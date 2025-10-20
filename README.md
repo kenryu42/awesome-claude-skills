@@ -93,6 +93,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | A Claude Skill that automatically analyzes uploaded CSV files.                                                                        |
 | [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill)                                               | A Claude Skill that integrates the powerful web fuzzer ffuf (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.   |
 | [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)                                   | A skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. |
+| [fdaudens/claude-fact-checker-skill](https://github.com/fdaudens/claude-fact-checker-skill)                           | A fact-checking and verification skill for Claude.                                                                                    |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
