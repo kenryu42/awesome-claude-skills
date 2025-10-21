@@ -94,6 +94,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill)                                               | A Claude Skill that integrates the powerful web fuzzer ffuf (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.   |
 | [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)                                   | A skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. |
 | [fdaudens/claude-fact-checker-skill](https://github.com/fdaudens/claude-fact-checker-skill)                           | A fact-checking and verification skill for Claude.                                                                                    |
+| [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome/tree/main)                                       | Direct Chrome browser control via chrome-ws skill - zero dependencies.                                                                |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
@@ -120,6 +121,7 @@ _More community skills are on the way. Add yours by submitting a pull request._
 - [Jesse Vincent: Skills for Claude](https://blog.fsck.com/2025/10/16/skills-for-claude/) - Anthropic is releasing their first-party skills system .
 - [Simon Willison: Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/) - Claude Skills are awesome, maybe a bigger deal than MCP.
 - [Kaz Sato: Google Cloud - Community](https://medium.com/google-cloud/supercharge-adk-development-with-claude-code-skills-d192481cbe72) - Supercharge ADK Development with Claude Code Skills.
+- [Jesse Vincent: Superpowers-Chrome](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/) - Ultra-lightweight Chrome MCP via chrome-ws skill.
 
 ## Contributing
 
