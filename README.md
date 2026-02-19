@@ -98,6 +98,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [nicknisi/claude-code-analyzer](https://github.com/nicknisi/dotfiles/tree/main/home/.claude/skills/claude-code-analyzer)       | Analyzes Claude Code usage patterns and provides comprehensive recommendations.                                                       |
 | [nicknisi/conference-talk-builder](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/conference-talk-builder) | Create conference talk outlines and iA Presenter markdown slides.                                                                     |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
+| [Octav-Labs/octav-api-skill](https://github.com/Octav-Labs/octav-api-skill)                                                      | Claude skill for multi-chain crypto portfolio tracking. Query wallet holdings, DeFi positions, transaction history, and token analytics via natural language.       |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
 _More community skills are on the way. Add yours by submitting a pull request._
