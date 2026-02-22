@@ -99,6 +99,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [nicknisi/conference-talk-builder](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/conference-talk-builder) | Create conference talk outlines and iA Presenter markdown slides.                                                                     |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
+| [uriva/find-scene-skill](https://github.com/uriva/find-scene-skill)                                                           | Search movie and TV show scenes by dialog, time, or visual description. Download clips, extract frames, find quotes, and query IMDB.  |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
