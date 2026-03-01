@@ -100,6 +100,8 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
+| [daxaur/openpaw](https://github.com/daxaur/openpaw) | Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed. |
+
 _More community skills are on the way. Add yours by submitting a pull request._
 
 ## Resources
