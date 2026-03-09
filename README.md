@@ -100,7 +100,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
-_More community skills are on the way. Add yours by submitting a pull request._
+| [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data extraction skill & MCP server for AI coding agents. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more. |_More community skills are on the way. Add yours by submitting a pull request._
 
 ## Resources
 
