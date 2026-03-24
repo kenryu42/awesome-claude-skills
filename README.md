@@ -128,6 +128,11 @@ _More community skills are on the way. Add yours by submitting a pull request._
 - [Jesse Vincent: Superpowers-Chrome](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/) - Ultra-lightweight Chrome MCP via chrome-ws skill.
 - [Katie Parrot: Claude Skills Need a ‘Share’ Button](https://every.to/vibe-check/vibe-check-claude-skills-need-a-share-button) - The feature is powerful for individuals and tricky for teams.
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 We'd love your help expanding this collection! Before you start, please take a moment to review our [contribution guidelines](CONTRIBUTING.md).
