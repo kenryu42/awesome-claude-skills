@@ -101,6 +101,8 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
 _More community skills are on the way. Add yours by submitting a pull request._
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | Open-source SEO & Google Ads plugin providing 9 skills: meta tags, schema markup, keyword bids, and CMS content pushes. |
+
 
 ## Resources
 
