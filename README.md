@@ -100,6 +100,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
+| [smorky850612/AuraKit](https://github.com/smorky850612/Aurakit) | All-in-one fullstack Claude Code skill: 46 modes, 23 sub-agents, 6-layer security (OWASP+), 10 hooks, 8 languages, ~55% token savings. One /aura command builds, fixes, reviews, deploys. Cross-platform (Codex, Cursor, Manus, Windsurf). |
 _More community skills are on the way. Add yours by submitting a pull request._
 
 ## Resources
