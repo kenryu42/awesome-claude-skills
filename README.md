@@ -99,6 +99,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [nicknisi/conference-talk-builder](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/conference-talk-builder) | Create conference talk outlines and iA Presenter markdown slides.                                                                     |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
+| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit)                  | Audits local AI coding agent traces for cost, token, latency, and health regressions.                                                |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
