@@ -100,6 +100,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
 
+| [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills) | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. |
 _More community skills are on the way. Add yours by submitting a pull request._
 
 ## Resources
