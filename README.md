@@ -97,7 +97,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://platform.
 | [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome/tree/main)                                                | Direct Chrome browser control via chrome-ws skill - zero dependencies.                                                                |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
-| [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)                                                 | X/Twitter data extraction skill & MCP server for AI coding agents. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more. |
+| [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)                                                 | X/Twitter data extraction skill & MCP server for AI coding agents. Extract followers, tweets, replies, mentions, lists, hashtags, Spaces, and more. |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
