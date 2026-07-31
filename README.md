@@ -49,7 +49,7 @@ Skills are available for all paid subscription plan.
 
 ### API & SDKs
 
-Skills can be accessed programmatically via the [`/v1/skills`](https://docs.claude.com/en/api/skills) endpoint and leveraged in custom agents built with the Claude Agent SDK.
+Skills can be accessed programmatically via the [`/v1/skills`](https://platform.claude.com/docs/en/build-with-claude/skills-guide) endpoint and leveraged in custom agents built with the Claude Agent SDK.
 
 ## Skill Library
 
@@ -57,20 +57,20 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 
 | Skill                                                                                     | Description                                                                                                  |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| **[algorithmic-art](https://github.com/anthropics/skills/tree/main/algorithmic-art)**     | Create generative art using p5.js with seeded randomness, flow fields, and particle systems.                 |
-| **[artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder)** | Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.                             |
-| **[brand-guidelines](https://github.com/anthropics/skills/tree/main/brand-guidelines)**   | Apply Anthropic's official brand colors and typography to artifacts.                                         |
-| **[canvas-design](https://github.com/anthropics/skills/tree/main/canvas-design)**         | Design visual art in .png and .pdf formats using established design philosophies.                            |
-| **[docx](https://github.com/anthropics/skills/tree/main/document-skills/docx)**           | Create, edit, and analyze Word documents with support for tracked changes, comments, and formatting.         |
-| **[pdf](https://github.com/anthropics/skills/tree/main/document-skills/pdf)**             | Extract text/tables, create new PDFs, merge/split documents, and handle forms.                               |
-| **[pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx)**           | Create, edit, and analyze PowerPoint presentations with support for templates, charts, and slide generation. |
-| **[xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx)**           | Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, and data analysis.       |
-| **[internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms)**       | Write internal communications like status reports, newsletters, and FAQs.                                    |
-| **[mcp-builder](https://github.com/anthropics/skills/tree/main/mcp-builder)**             | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
-| **[skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator)**         | Guide for creating effective skills.                                                                         |
-| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/slack-gif-creator)** | Create animated GIFs optimized for Slack' size constraints.                                                  |
-| **[theme-factory](https://github.com/anthropics/skills/tree/main/theme-factory)**         | Toolkit for styling artifacts with a theme.                                                                  |
-| **[webapp-testing](https://github.com/anthropics/skills/tree/main/webapp-testing)**       | Test local web applications using Playwright for UI verification and debugging.                              |
+| **[algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)**             | Create generative art using p5.js with seeded randomness, flow fields, and particle systems.                 |
+| **[web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)** | Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.                             |
+| **[brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)**           | Apply Anthropic's official brand colors and typography to artifacts.                                         |
+| **[canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)**                 | Design visual art in .png and .pdf formats using established design philosophies.                            |
+| **[docx](https://github.com/anthropics/skills/tree/main/skills/docx)**                                   | Create, edit, and analyze Word documents with support for tracked changes, comments, and formatting.         |
+| **[pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)**                                     | Extract text/tables, create new PDFs, merge/split documents, and handle forms.                               |
+| **[pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)**                                   | Create, edit, and analyze PowerPoint presentations with support for templates, charts, and slide generation. |
+| **[xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)**                                   | Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, and data analysis.       |
+| **[internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)**               | Write internal communications like status reports, newsletters, and FAQs.                                    |
+| **[mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)**                     | Guide for creating high-quality MCP servers to integrate external APIs and services.                         |
+| **[skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)**                 | Guide for creating effective skills.                                                                         |
+| **[slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator)**         | Create animated GIFs optimized for Slack' size constraints.                                                  |
+| **[theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)**                 | Toolkit for styling artifacts with a theme.                                                                  |
+| **[webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)**               | Test local web applications using Playwright for UI verification and debugging.                              |
 
 ### Third-Party Skills
 
@@ -95,10 +95,9 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)                                            | A skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. |
 | [fdaudens/claude-fact-checker-skill](https://github.com/fdaudens/claude-fact-checker-skill)                                    | A fact-checking and verification skill for Claude.                                                                                    |
 | [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome/tree/main)                                                | Direct Chrome browser control via chrome-ws skill - zero dependencies.                                                                |
-| [nicknisi/claude-code-analyzer](https://github.com/nicknisi/dotfiles/tree/main/home/.claude/skills/claude-code-analyzer)       | Analyzes Claude Code usage patterns and provides comprehensive recommendations.                                                       |
-| [nicknisi/conference-talk-builder](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/conference-talk-builder) | Create conference talk outlines and iA Presenter markdown slides.                                                                     |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
+| [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)                                                 | X/Twitter data extraction skill & MCP server for AI coding agents. Extract followers, tweets, replies, mentions, lists, hashtags, Spaces, and more. |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
@@ -109,7 +108,7 @@ _More community skills are on the way. Add yours by submitting a pull request._
 - [Claude Skills Announcement](https://www.anthropic.com/news/skills) - Official announcement from Anthropic.
 - [Claude Skills Documentation](https://docs.claude.com/en/docs/claude-code/skills) - Official claude skills documentation.
 - [anthropics/skills](https://github.com/anthropics/skills) - Official public repository for Skills.
-- [Skills API Endpoint](https://docs.claude.com/en/api/skills) - `/v1/skills` API documentation.
+- [Skills API Guide](https://platform.claude.com/docs/en/build-with-claude/skills-guide) - `/v1/skills` API documentation.
 - [Equipping Agents with Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Engineering blog post on Agent Skills.
 - [Claude Skills Cookbook](https://github.com/anthropics/claude-cookbooks/tree/main/skills) - A comprehensive guide to using Claude's Skills feature by Anthropic.
 - [Skill Authoring Best Practice](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices) - Learn how to write effective Skills that Claude can discover and use successfully.
