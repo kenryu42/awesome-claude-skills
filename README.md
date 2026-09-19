@@ -99,6 +99,7 @@ Skills can be accessed programmatically via the [`/v1/skills`](https://docs.clau
 | [nicknisi/conference-talk-builder](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/conference-talk-builder) | Create conference talk outlines and iA Presenter markdown slides.                                                                     |
 | [brianell.in/atproto-claude-skill](https://tangled.org/@brianell.in/atproto-claude-skill)                                      | A claude skill that has access to all of the atproto docs and reference implementations.                                              |
 | [obra/episodic-memory](https://github.com/obra/episodic-memory)                                                                | Semantic search for Claude Code conversations.                                                                                        |
+| [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) | Developer-alpha CLI skill for discovering local skills, PKM notes, encrypted knowledge and opaque credential capabilities. |
 
 _More community skills are on the way. Add yours by submitting a pull request._
 
