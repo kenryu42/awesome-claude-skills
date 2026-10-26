@@ -127,6 +127,7 @@ _More community skills are on the way. Add yours by submitting a pull request._
 - [Kaz Sato: Google Cloud - Community](https://medium.com/google-cloud/supercharge-adk-development-with-claude-code-skills-d192481cbe72) - Supercharge ADK Development with Claude Code Skills.
 - [Jesse Vincent: Superpowers-Chrome](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/) - Ultra-lightweight Chrome MCP via chrome-ws skill.
 - [Katie Parrot: Claude Skills Need a ‘Share’ Button](https://every.to/vibe-check/vibe-check-claude-skills-need-a-share-button) - The feature is powerful for individuals and tricky for teams.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Contributing
 
